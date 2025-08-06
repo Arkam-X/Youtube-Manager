@@ -22,3 +22,5 @@ All data is stored in a JSON file for persistence.
 ---
 
 ## 📂 File Structure
+- yt_manager.py # Main application
+- youtube.txt # JSON file storing video data
